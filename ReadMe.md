@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Técnico em Informática;<br>Estou cursando Análise e Desenvolvimento de Sistemas;<br>Procuro uma oportunidade de estágio.
+Sou Técnico em Informática;<br>Estou cursando Análise e Desenvolvimento de Sistemas;<br>Atualmente trabalho com suporte N2 nas Lojas Renner SA.
 
 
 ## 🌐 Socials:
